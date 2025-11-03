@@ -1,2 +1,0 @@
-# esp32-firmware
-OTA UPDATE FOR ESP32 AND SIM7600EI
